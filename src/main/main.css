@@ -8,6 +8,9 @@
   font-size: 15px;
   font-weight: 600;
 }
+.hello {
+  background-color: #3b82f6;
+}
 .navLeft a {
   text-decoration: none;
   color: black;
